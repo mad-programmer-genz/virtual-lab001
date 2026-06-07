@@ -1,0 +1,6 @@
+{
+  "name": "Virtual Chemistry Lab",
+  "description": "An interactive, educational virtual chemistry lab representing periodic elements, their valencies, and standard chemical reactions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
